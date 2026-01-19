@@ -66,10 +66,10 @@ CMOS-XNOR-VLSI/
 ├── README.md
 ├── verilog/
 │   ├── xnor.v
-│   └── xnor_testbench.v
+│   └── xnor_TestBench.v
 ├── diagrams/
 │   ├── circuit_diagram.png
-│   ├── cmos_circuit_diagram.png
+│   ├── cmos-circuit_diagram.png
 │   ├── truth_table.png
 │   └── kmap.png
 ├── simulation/
@@ -88,7 +88,7 @@ CMOS-XNOR-VLSI/
 ---
 
 ## Author
-Shihanah Alkushi  
+Shehana Alkushi  
 Computer Engineer 
 
 ---
