@@ -43,6 +43,16 @@ The approach reduces circuit complexity while maintaining correct logical behavi
 
 ---
 
+## K-map
+
+|   | 0 | 1 |
+|---|---|---|
+| 0 | 1 | 0 |
+| 1 | 0 | 1 |
+
+
+---
+
 ## Simulation & Verification
 A Verilog testbench was developed to apply all possible input combinations to the circuit.  
 Simulation results confirm that the output matches the expected XNOR truth table for every case.
@@ -56,12 +66,14 @@ CMOS-XNOR-VLSI/
 ├── README.md
 ├── verilog/
 │   ├── xnor.v
-│   └── xnor_tb.v
+│   └── xnor_testbench.v
 ├── diagrams/
-│   ├── cmos_xnor_circuit.png
+│   ├── circuit_diagram.png
+│   ├── cmos_circuit_diagram.png
 │   ├── truth_table.png
 │   └── kmap.png
 ├── simulation/
+|   ├── truth_table_for_outpot.png
 │   └── waveform.png
 
 
