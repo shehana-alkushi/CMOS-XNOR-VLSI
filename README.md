@@ -77,7 +77,7 @@ CMOS-XNOR-VLSI/
 
 ## Author
 Shihanah Alkushi  
-Computer Engineering  
+Computer Engineer 
 
 ---
 
